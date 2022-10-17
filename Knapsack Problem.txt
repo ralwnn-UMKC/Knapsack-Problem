@@ -1,0 +1,9 @@
+total number of items : 400
+max weight allowed : 500
+number of iterations : 40000
+start temperature : 500
+cool down rate : 0.4
+number of items attempting to pack : 100
+
+Total utility of packing = 361.3
+Total weight  of packing = 498.7
